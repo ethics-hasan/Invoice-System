@@ -2,7 +2,7 @@
 
 **Database Name: invoicemgsys**
 
-**Developed by Abhishek Raj**
+
 
 **Recommended PHP Version 5.6 or Newer**
 
